@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Dataset asli
+dataset/
+
+# Model checkpoint lokal
+models/
+*.pth
+*.pt
+
+# System files
+.DS_Store
